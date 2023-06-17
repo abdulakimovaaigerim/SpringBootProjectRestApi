@@ -6,7 +6,6 @@ import org.springframework.stereotype.Service;
 import peaksoft.dto.instructor.InstructorRequest;
 import peaksoft.dto.instructor.InstructorResponse;
 import peaksoft.dto.response.SimpleResponse;
-import peaksoft.dto.student.StudentResponse;
 import peaksoft.entities.Company;
 import peaksoft.entities.Instructor;
 import peaksoft.repository.CompanyRepository;
